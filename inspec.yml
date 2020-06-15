@@ -1,0 +1,10 @@
+name: InSpec_Security_Compliance
+title: InSpec Security Compliance Profile
+maintainer: Ojash Mishra
+copyright: Ojash Mishra
+copyright_email: ojash.mishra@tothenew.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+supports:
+  platform: os
